@@ -1,6 +1,6 @@
 # CS504-Final Project
 
-This repository represents the project and tasks taught in the "CS 504: Adversarial Machine learning Course" offered at the University of Idaho. To know more about visit the course page [CS504 - Adversarial Machine Learning](https://www.webpages.uidaho.edu/vakanski/Adversarial_Machine_Learning.html)
+This repository represents the project and tasks taught in the "CS 504: Adversarial Machine learning Course" offered at the University of Idaho. To know more visit the course page [CS504 - Adversarial Machine Learning](https://www.webpages.uidaho.edu/vakanski/Adversarial_Machine_Learning.html)
 
 
 # Introduction
